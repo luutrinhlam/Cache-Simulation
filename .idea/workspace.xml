@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="202_Assignment_3" targetName="202_Assignment_3" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="93a9a979-caa8-4716-9159-0958c58bef18" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectId" id="1sifnkG6jqx8fQXR8e0U1NUU38Y" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\CLionProjects\202_Assignment_3" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="202_Assignment_3" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="C:\Users\Admin\CLionProjects\202_Assignment_3\test.txt" PASS_PARENT_ENVS_2="true" PROJECT_NAME="202_Assignment_3" TARGET_NAME="202_Assignment_3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="202_Assignment_3" RUN_TARGET_NAME="202_Assignment_3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93a9a979-caa8-4716-9159-0958c58bef18" name="Default Changelist" comment="" />
+      <created>1621360499998</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621360499998</updated>
+      <workItem from="1621360505225" duration="1099000" />
+      <workItem from="1621781426002" duration="2544000" />
+      <workItem from="1621922598726" duration="4756000" />
+      <workItem from="1622029602461" duration="13177000" />
+      <workItem from="1622127770743" duration="42908000" />
+      <workItem from="1622381806008" duration="9785000" />
+      <workItem from="1622460654712" duration="8528000" />
+      <workItem from="1622519315400" duration="4308000" />
+      <workItem from="1623165567497" duration="1410000" />
+      <workItem from="1623422078054" duration="2478000" />
+      <workItem from="1628153468135" duration="26000" />
+      <workItem from="1628228492729" duration="569000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>78</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
